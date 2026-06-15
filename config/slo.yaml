@@ -4,13 +4,16 @@ slis:
   latency_p95_ms:
     objective: 3000
     target: 99.5
-    note: Replace with your group's target
+    note: Interactive chat should remain below 3 seconds at P95.
   error_rate_pct:
     objective: 2
     target: 99.0
+    note: User-visible 5xx responses should stay below 2%.
   daily_cost_usd:
     objective: 2.5
     target: 100.0
+    note: Daily development budget for the mock agent.
   quality_score_avg:
     objective: 0.75
     target: 95.0
+    note: Heuristic quality proxy exposed by /metrics.
