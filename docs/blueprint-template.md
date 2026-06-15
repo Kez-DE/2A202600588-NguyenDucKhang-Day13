@@ -2,10 +2,9 @@
 
 ## 1. Submission Metadata
 
-- [GROUP_NAME]: Individual Submission - Kez-DE
-- [REPO_URL]: https://github.com/Kez-DE/Lab13-Observability
+- [REPO_URL]: https://github.com/Kez-DE/2A202600588-NguyenDucKhang-Day13
 - [MEMBERS]:
-  - Individual: Kez-DE | Role: Full-stack observability implementation, validation, and report
+  - Nguyễn Đức Khang - 2A202600588 | Role: Full-stack observability implementation, validation, and report
 
 ---
 
@@ -101,10 +100,10 @@ Additional scenarios:
 
 ## 5. Individual Contributions & Evidence
 
-### Kez-DE
+### Nguyễn Đức Khang - 2A202600588
 
 - [TASKS_COMPLETED]: Implemented correlation ID middleware, structlog context enrichment, recursive PII scrubbing, deterministic answer generation, PII/correlation tests, SLOs, alerts, dashboard spec, incident runbook, validation evidence, and individual README/report.
-- [EVIDENCE_LINK]: Local working tree in `Kez-DE/Lab13-Observability`; main implementation files are `app/middleware.py`, `app/logging_config.py`, `app/main.py`, `app/pii.py`, `app/mock_llm.py`, and `tests/test_app_observability.py`.
+- [EVIDENCE_LINK]: Local working tree in `2A202600588-NguyenDucKhang-Day13`; main implementation files are `app/middleware.py`, `app/logging_config.py`, `app/main.py`, `app/pii.py`, `app/mock_llm.py`, and `tests/test_app_observability.py`.
 
 Technical details I can explain in demo:
 
